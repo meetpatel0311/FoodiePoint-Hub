@@ -94,4 +94,21 @@ The main goal of this project is to reduce manual work, improve canteen efficien
 
 ---
 
-# 📂 Project Structure
+# 📸 Project Output
+
+## 🔐 Login Page
+
+<img width="564" height="269" alt="Login Page" src="https://github.com/user-attachments/assets/c8dd5e12-5877-47a1-aa51-26d4cd2cf3f3" />
+
+## 🏠 Dashboard Page
+<br>
+
+<img width="627" height="282" alt="Dashboard" src="https://github.com/user-attachments/assets/a4cccc36-ec31-4927-a906-91063eb773f9" />
+
+<img width="623" height="318" alt="Dashboard" src="https://github.com/user-attachments/assets/2b65a8a5-e362-4484-a534-28a697e3df0c" />
+
+<img width="624" height="85" alt="Dashboard" src="https://github.com/user-attachments/assets/249ab7f7-af64-425b-8c44-9adb171281af" />
+
+<img width="624" height="307" alt="Dashboard" src="https://github.com/user-attachments/assets/62b71cf5-19a9-4b4a-8deb-2ca7cdf74b66" />
+
+<img width="624" height="237" alt="Dashboard" src="https://github.com/user-attachments/assets/c772f1eb-81f8-48a2-afad-5b12c3d71c75" />
