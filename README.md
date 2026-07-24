@@ -8,31 +8,39 @@ The system provides two types of users:
 - Admin: Manages menu items, stock, and customer orders.
 - Customer: Views food items, places orders, and receives bill details.
 
-## Main Features:
+## Main Features
 
-👨‍💼 Admin Management
-- Admin can manage menu items.
-- Add, update, and delete food items.
-- Manage stock availability.
-- View and manage customer orders.
-- Track order status.
+### 👨‍💼 Admin Management
 
-👨‍🎓 Customer Ordering System
-- Customers can view available food items.
-- Search food items by name and category.
-- Place food orders from a single counter.
-- Receive order confirmation and bill details.
-- View order history.
+* Admin can manage all canteen menu items.
+* Add, update, and delete food products.
+* Manage food stock availability.
+* View and manage customer orders.
+* Update and track order status.
+* Maintain complete canteen item records.
 
-🧾 Billing System
-- Generates order bills.
-- Calculates total order amount.
-- Maintains complete order details.
-- Tracks order date and status.
+### 👨‍🎓 Customer Ordering System
 
-🍔 Canteen Management
-- Helps manage food items, prices, stock, and customer orders digitally.
-- Reduces manual work and improves canteen efficiency.
+* Customers can view available food items.
+* Search food items by name and category.
+* Place food orders easily through the system.
+* Get order confirmation details.
+* View order history and current order status.
+
+### 🧾 Order & Billing System
+
+* Automatically calculates total order amount.
+* Generates complete order details.
+* Maintains order date and status records.
+* Tracks pending, completed, and cancelled orders.
+
+### 🍔 Canteen Management
+
+* Digital management of food items, prices, and stock.
+* Reduces manual paperwork and human errors.
+* Improves canteen operation efficiency.
+* Provides a simple and user-friendly interface for managing daily canteen activities.
+
 
 ## Technology Used:
 
